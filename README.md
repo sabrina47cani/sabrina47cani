@@ -21,10 +21,11 @@ My current goal is to build my experience as a Full-Stack Developer through an i
 - 🔧 VS Code, Eclipse
 
 ### Habilidades Pessoais / Soft Skills
--Liderança e organização em projetos em grupo / Leadership and organization in group projects
--Capacidade de resolução de problemas / Problem-solving skills
--Proatividade e iniciativa / Proactivity and initiative
--Fácil adaptação a novos ambientes / Easy adaptation to new environments
+Liderança e organização em projetos em grupo / Leadership and organization in group projects
+Capacidade de resolução de problemas / Problem-solving skills
+Proatividade e iniciativa / Proactivity and initiative
+Fácil adaptação a novos ambientes / Easy adaptation to new environments
+Inglês nível C1 (Avançado) – em curso na Rockfeller / English C1 level (Advanced) - in progress at Rockfeller
 
 ---
 
